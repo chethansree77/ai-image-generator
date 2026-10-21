@@ -87,3 +87,13 @@ Open the local URL displayed in your terminal.
 ---
 
 ⭐ If you find this project interesting, feel free to explore the repository!
+
+
+
+## 📸 Screenshots
+
+### Screenshot 1 — AI Image Generator
+![AI Image Generator](assets/ai-image-generator.png)
+
+### Screenshot 2 — Generated Image
+![Generated Image](assets/ai-image-generator-2.png)
